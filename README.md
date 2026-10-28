@@ -4,6 +4,13 @@ Microservicio REST para gestionar empleados y solicitudes de vacaciones, hecho c
 
 Es un proyecto académico: el código fue generado por una cadena de 6 agentes de IA (Product Owner, Arquitecto, Desarrollador, QA, Revisor de seguridad y DevOps) y después probado, auditado y publicado paso a paso.
 
+## Demo en línea
+
+- Documentación interactiva (Swagger): https://talentcore-api-sabineperez.onrender.com/docs
+- Servicio en Render: https://talentcore-api-sabineperez.onrender.com
+
+> El plan gratuito de Render se duerme tras un rato sin visitas, así que la primera carga puede tardar cerca de un minuto.
+
 ## Qué hace
 
 - Registra empleados con un rol y, opcionalmente, un jefe directo.
